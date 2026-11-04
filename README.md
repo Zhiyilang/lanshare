@@ -1,5 +1,11 @@
 # lanshare · 零依赖局域网文件快传
 
+<!-- ORDER-CTA -->
+> **需要定制或代做？** 我承接 Excel 代做（¥50 起）/ 零依赖 Python 脚本定制（¥200 起）/ 影刀·UiBot 机器人（¥500 起）。
+> **先报价后付款、无预付款**，微信 / 支付宝结算，询价发 **2383844705@qq.com**（标题写「接单 + 需求类型」）。
+> 更多工具与报价见作品集：https://zhiyilang.github.io/
+
+
 > 同 WiFi 下，一台电脑运行本程序，手机/其他电脑浏览器打开地址即可 **上传 / 下载 / 删除** 文件。**无需安装任何第三方库**，标准库即可运行。
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
