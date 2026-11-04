@@ -93,3 +93,17 @@ MIT —— 可自由用于个人和商业场景。
 ---
 
 如果这个小工具帮到了你，欢迎请作者喝杯咖啡 ☕ → [爱发电](https://afdian.com/a/Zhiyilang)
+
+<!-- cross-links -->
+
+## 🔗 More zero-dependency tools
+
+All of these are single-file, pure Python-stdlib CLIs — offline, no `pip install`, cross-platform:
+
+- **billfusion** — Bill / CSV merging · <https://github.com/Zhiyilang/billfusion>
+- **dupescan** — Duplicate file finder · <https://github.com/Zhiyilang/dupescan>
+- **csvdiff** — CSV / JSON diff · <https://github.com/Zhiyilang/csvdiff>
+- **md2html** — Markdown to HTML · <https://github.com/Zhiyilang/md2html>
+- **dirsize** — Directory size analyzer · <https://github.com/Zhiyilang/dirsize>
+
+Full portfolio & docs: <https://zhiyilang.github.io/>
