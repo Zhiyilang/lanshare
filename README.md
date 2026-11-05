@@ -98,7 +98,7 @@ MIT —— 可自由用于个人和商业场景。
 
 ---
 
-如果这个小工具帮到了你，欢迎请作者喝杯咖啡 ☕ → [爱发电](https://afdian.com/a/Zhiyilang)
+如果这个小工具帮到了你，欢迎请作者喝杯咖啡 ☕ → [爱发电](https://afdian.com/a/Zhiyilang074811)
 
 <!-- cross-links -->
 
